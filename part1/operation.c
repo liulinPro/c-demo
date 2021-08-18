@@ -1,0 +1,1 @@
+#include "stdio.h"int main(void){    printf("%lf\n",3.0/2);    printf("%d",3==2);}
