@@ -1,8 +1,8 @@
 #include "stdio.h"
 
 /*
- * 8进制
- * 16进制
+ * %o 8进制
+ * %#X 16进制
  */
 int main(void) {
     int i = 0X15;
