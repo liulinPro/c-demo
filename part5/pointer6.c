@@ -12,6 +12,7 @@ int main(void) {
 //    f(b, 6);
 }
 
+
 void f(int *pArr, int len) {
     printf("%ld\n", sizeof(pArr));
     printf("%ld\n", sizeof(*pArr));
